@@ -1,7 +1,4 @@
 # DLH-Project-Text-EGM
-
-# DLH-Project-Text-EGM
-
 # Create a virtual environment named 'envname' with 
  python3 -m venv venv
 
